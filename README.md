@@ -13,9 +13,9 @@ https://doi.org/10.1007/s10955-014-1119-3
 
 https://doi.org/10.1016/j.physrep.2017.11.003
 
-The program simulates a system of polar active particles with spin alignment interactions, and subject to noise.
+The program simulates a 2-dimensional system of polar active particles ("flock") with spin alignment interactions, and subject to noise. It can be used in particular to study collective turns induced by an external perturbing field.
 
-It can be adjusted to account for either metric or topological interactions (via a combination of Verlet list + cell list methods).
+It can be adjusted to account for either metric or topological interactions (via a combination of Verlet list + cell list methods). Different boundary conditions (periodic or open) can be chosen.
 
 It runs on a single core, and uses Ciccotti/Vanden-Eijnden method for the integration of the coupled stochastic differential equations, as in
 

@@ -21,4 +21,4 @@ It runs on a single core, and uses Ciccotti/Vanden-Eijnden method for the integr
 
 https://doi.org/10.1016/j.cplett.2006.07.086
 
-For further info, contact me!
+For further info, feel free to contact me!

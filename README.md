@@ -5,9 +5,8 @@ Written by Davide Venturelli & Emanuele Loffredo
 
 Last update: 25 April 2022
 
-Original version: 14 March 2019 (Davide Venturelli, Rome)
-
-used in my Master Thesis:
+Original version: 14 March 2019 (Davide Venturelli, Rome),
+used in my Master Thesis,
 
 https://zenodo.org/record/7615248
 

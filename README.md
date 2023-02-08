@@ -7,6 +7,10 @@ Last update: 25 April 2022
 
 Original version: 14 March 2019 (Davide Venturelli, Rome)
 
+used in my Master Thesis:
+
+https://zenodo.org/record/7615248
+
 Physical motivation and description of the model can be found, e.g., here:
 
 https://doi.org/10.1007/s10955-014-1119-3

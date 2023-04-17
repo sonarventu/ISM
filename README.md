@@ -12,7 +12,7 @@ https://zenodo.org/record/7615248
 
 and more recently in this article called "Collective response to local perturbations":
 
-https://arxiv.org/abs/2302.07592
+https://doi.org/10.1088/1478-3975/acc5cc
 
 Physical motivation and description of the model can be found, e.g., here:
 
